@@ -27,47 +27,47 @@ This is a web-based food ordering system developed using PHP, JavaScript, HTML, 
 
 **1. 🔗 Backend**
 
-    *MySQL:* For storing user data and menu items.
+  *MySQL:* For storing user data and menu items.
 
-    *PHP:* Server-side scripting language for handling requests and database interactions.
+   *PHP:* Server-side scripting language for handling requests and database interactions.
 
 **2. 🔗 Frontend**
 
-    *HTML/CSS:* For structuring and styling the web pages.
+   *HTML/CSS:* For structuring and styling the web pages.
 
-    *JavaScript:* For enhancing user interaction and managing dynamic content.
+   *JavaScript:* For enhancing user interaction and managing dynamic content.
 
 **4. 🔗 Server Environment**
 
-    *XAMPP:* A cross-platform solution that provides Apache server and MySQL database for local development.
+   *XAMPP:* A cross-platform solution that provides Apache server and MySQL database for local development.
 
 
 ## **<ins>Implementation Overview</ins>**
 
 **1. Setting Up XAMPP:**
 
-    Install XAMPP to create a local server environment.
+   Install XAMPP to create a local server environment.
     
-    Start Apache and MySQL through the XAMPP control panel.
+   Start Apache and MySQL through the XAMPP control panel.
 
 **2. Creating the Database:**
 
-    Use phpMyAdmin (accessible via http://localhost/phpmyadmin) to create a database for the application.
+   Use phpMyAdmin (accessible via http://localhost/phpmyadmin) to create a database for the application.
 
-    Define tables for users and menu items with appropriate fields.
+   Define tables for users and menu items with appropriate fields.
 
 **3. Developing the Application:**
 
-    Create HTML files for registration (register.html), login (login.html), menu display (menu.php), and checkout (checkout.php).
+   Create HTML files for registration (register.html), login (login.html), menu display (menu.php), and checkout (checkout.php).
 
-    Use PHP scripts to handle form submissions, authenticate users, and interact with the database.
+   Use PHP scripts to handle form submissions, authenticate users, and interact with the database.
 
 **4. Styling the Application:**
 
-    Use CSS for styling the layout and improving user experience.
+  Use CSS for styling the layout and improving user experience.
     
-    Implement JavaScript for dynamic features like updating cart totals without refreshing the page.
+  Implement JavaScript for dynamic features like updating cart totals without refreshing the page.
 
 **5. Testing the Application:**
 
-    Access the application via http://localhost/[your_project_directory] in a web browser to test functionality such as registration, login, menu browsing, adding items to the cart, and checking out.
+  Access the application via http://localhost/[your_project_directory] in a web browser to test functionality such as registration, login, menu browsing, adding items to the cart, and checking out.
