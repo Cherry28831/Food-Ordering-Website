@@ -23,7 +23,7 @@ This is a web-based food ordering system developed using PHP, JavaScript, HTML, 
 
    *Checkout Process:* After finalizing their selections, users can proceed to checkout to confirm their order.
 
-##🛠️ **<ins>Tech Stack</ins>**
+## 🛠️ **<ins>Tech Stack</ins>**
 
 **1. 🔗 Backend**
 
@@ -37,28 +37,37 @@ This is a web-based food ordering system developed using PHP, JavaScript, HTML, 
 
     *JavaScript:* For enhancing user interaction and managing dynamic content.
 
-4. 🔗 **Server Environment**
+**4. 🔗 Server Environment**
 
     *XAMPP:* A cross-platform solution that provides Apache server and MySQL database for local development.
 
 
 ## **<ins>Implementation Overview</ins>**
 
-1. **Setting Up XAMPP:**
+**1. Setting Up XAMPP:**
 
-   Install XAMPP to create a local server environment.
+    Install XAMPP to create a local server environment.
+    
+    Start Apache and MySQL through the XAMPP control panel.
 
-   Start Apache and MySQL through the XAMPP control panel.
-
-3. **Creating the Database:**
+**2. Creating the Database:**
 
     Use phpMyAdmin (accessible via http://localhost/phpmyadmin) to create a database for the application.
 
     Define tables for users and menu items with appropriate fields.
 
-4. Developing the Application:
-Create HTML files for registration (register.html), login (login.html), menu display (menu.php), and checkout (checkout.php).
-Use PHP scripts to handle form submissions, authenticate users, and interact with the database.
-Styling the Application:
-Use CSS for styling the layout and improving user experience.
-Implement JavaScript for dynamic features like updating cart totals without refreshing the page.
+**3. Developing the Application:**
+
+    Create HTML files for registration (register.html), login (login.html), menu display (menu.php), and checkout (checkout.php).
+
+    Use PHP scripts to handle form submissions, authenticate users, and interact with the database.
+
+**4. Styling the Application:**
+
+    Use CSS for styling the layout and improving user experience.
+    
+    Implement JavaScript for dynamic features like updating cart totals without refreshing the page.
+
+**5. Testing the Application:**
+
+    Access the application via http://localhost/[your_project_directory] in a web browser to test functionality such as registration, login, menu browsing, adding items to the cart, and checking out.
