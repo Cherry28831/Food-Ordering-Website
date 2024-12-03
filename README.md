@@ -7,6 +7,7 @@ This is a web-based food ordering system developed using PHP, JavaScript, HTML, 
 1. 🔐 User Authentication
 
    Register: Users can create accounts with secure credentials.
+
    Login: Access personalized features after logging in, including viewing order history.
 
 🍽️ Menu Management
