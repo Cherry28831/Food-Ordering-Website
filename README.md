@@ -4,13 +4,13 @@ This is a web-based food ordering system developed using PHP, JavaScript, HTML, 
 
 **🌟 Features**
 
--🔐 User Authentication
-Register: Users can create accounts with secure credentials.
-Login: Access personalized features after logging in, including viewing order history.
+🔐 User Authentication
+1. Register: Users can create accounts with secure credentials.
+2. Login: Access personalized features after logging in, including viewing order history.
 
--🍽️ Menu Management
-View Menu: Users can browse a comprehensive menu with detailed descriptions of each dish.
-Add to Cart: Users can select items to add to their cart for easy ordering.
+🍽️ Menu Management
+1. View Menu: Users can browse a comprehensive menu with detailed descriptions of each dish.
+2. Add to Cart: Users can select items to add to their cart for easy ordering.
 🛒 Shopping Cart
 Manage Cart: Users can view items in their cart, update quantities, or remove items before checkout.
 Checkout Process: After finalizing their selections, users can proceed to checkout to confirm their order.
