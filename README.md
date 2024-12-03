@@ -3,9 +3,11 @@
 This is a web-based food ordering system developed using PHP, JavaScript, HTML, and CSS. The application allows users to register, log in, view the restaurant's menu, and place orders conveniently. The backend is powered by a MySQL database and hosted locally using XAMPP.
 
 **🌟 Features**
+
 -🔐 User Authentication
 Register: Users can create accounts with secure credentials.
 Login: Access personalized features after logging in, including viewing order history.
+
 -🍽️ Menu Management
 View Menu: Users can browse a comprehensive menu with detailed descriptions of each dish.
 Add to Cart: Users can select items to add to their cart for easy ordering.
